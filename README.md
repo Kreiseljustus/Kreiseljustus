@@ -1,3 +1,7 @@
+<h1>Who am I?</h1>
+  My Name is Justus Walter-Helk and im 15 Years Old!
+  I live in Germany, Bavaria
+
 <h1>Some Stats about my Profile!</h1>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustusWalter-Helk&show_icons=true&theme=dark)
