@@ -3,9 +3,7 @@
   I live in Germany, Bavaria.
 
 <h3>Find me on Social Media!</h3>
-Instagram: https://www.instagram.com/kreiseljustuss <br>
 Discord: Kreiseljustus#1567 <br>
-Twitter: @DKreiseljustus <br>
 
 <h1>Some Stats about my Profile!</h1>
 
